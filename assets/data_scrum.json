@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Lista de Requerimientos del Producto",
+    "description": "Un registro organizado de todas las posibles características necesarias para el producto. Es la única fuente de requisitos para cualquier cambio que se realice en el producto.",
+    "image": "assets/product-backlog.png",
+    "example": "Como Responsable de Producto, deseo mantener una lista clara de características para mi producto para poder comunicarme eficazmente con los interesados y el equipo de desarrollo."
+  },
+  {
+    "name": "Ciclo de Desarrollo",
+    "description": "Un período de tiempo definido durante el cual se desarrolla y se entrega una parte del producto.",
+    "image": "assets/sprint.png",
+    "example": "Durante nuestro ciclo de dos semanas, nuestro objetivo es completar las tareas que nos hemos comprometido a realizar, asegurándonos de que cumplan con nuestros estándares de calidad."
+  },
+  {
+    "name": "Reunión Diaria de Progreso",
+    "description": "Una breve reunión de 15 minutos donde el equipo de desarrollo sincroniza actividades y planifica el trabajo para el día siguiente.",
+    "image": "assets/daily_scrum.png",
+    "example": "Durante nuestra reunión diaria de progreso, cada miembro del equipo comparte lo que logró ayer, lo que planea hacer hoy y cualquier problema que esté enfrentando."
+  },
+  {
+    "name": "Responsable del Producto",
+    "description": "La persona responsable de maximizar el valor del producto y del trabajo del equipo de desarrollo.",
+    "image": "assets/product_owner.png",
+    "example": "Como Propietario del Producto, colaboro estrechamente con los interesados para entender sus necesidades y priorizar las características para proporcionar el máximo valor."
+  },
+  {
+    "name": "Maestro de Scrum",
+    "description": "El líder del equipo Scrum responsable de garantizar que se comprenda y se cumpla el proceso de Scrum.",
+    "image": "assets/scrum_master.png",
+    "example": "Como Maestro de Scrum, facilito las reuniones de Scrum, elimino obstáculos y entreno al equipo para mejorar continuamente."
+  },
+  {
+    "name": "Planificación de la Iteración",
+    "description": "Una reunión donde el equipo colabora para definir y planificar el trabajo que se realizará durante la iteración.",
+    "image": "assets/sprint_planning.png",
+    "example": "Durante la planificación de la iteración, el equipo revisa las tareas pendientes, selecciona las más importantes y crea un plan detallado para la iteración."
+  },
+  {
+    "name": "Revisión de la Iteración",
+    "description": "Una reunión donde el equipo y los interesados revisan el trabajo completado durante la iteración y planifican los siguientes pasos.",
+    "image": "assets/sprint_review.png",
+    "example": "Durante la revisión de la iteración, presentamos el trabajo completado a los interesados, recopilamos comentarios y discutimos los cambios necesarios."
+  },
+  {
+    "name": "Evaluación de la Iteración",
+    "description": "Una reunión donde el equipo reflexiona sobre su desempeño durante la iteración y planifica mejoras para la próxima.",
+    "image": "assets/sprint_retrospective.jpeg",
+    "example": "Durante la evaluación de la iteración, revisamos lo que salió bien, identificamos áreas de mejora y nos comprometemos a hacer cambios para la próxima iteración."
+  },
+  {
+    "name": "Criterios de Finalización",
+    "description": "Un conjunto de condiciones que deben cumplirse para considerar que una tarea está completa y lista para ser entregada.",
+    "image": "assets/definition_of_done.png",
+    "example": "Nuestros criterios de finalización incluyen pruebas completas, revisión de código y documentación detallada."
+  },
+  {
+    "name": "Historia de Usuario",
+    "description": "Una descripción breve de una característica del producto contada desde la perspectiva del usuario que la desea.",
+    "image": "assets/histo.png",
+    "example": "Como usuario, deseo poder iniciar sesión con mi correo electrónico y contraseña para acceder a funciones personalizadas."
+  }
+]
